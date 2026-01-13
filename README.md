@@ -1,21 +1,20 @@
-<h1 align="center">Jogo do Número Secreto</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-concluído-brightgreen" alt="Status Concluído">
-  <img src="https://img.shields.io/github/last-commit/d-ivva/alura-jogo-numero-secreto" alt="Last Commit">
-</p>
+<h1 align="center">Jogo do Número Secreto | Projeto Curso ONE </h1>
 
 <p align="center">
   <a href="#sobre">Sobre</a> •
   <a href="#funcionalidades">Funcionalidades</a> •
   <a href="#tecnologias">Tecnologias</a> •
   <a href="#como-executar">Como Executar</a> •
-  <a href="#autor">Autor</a>
 </p>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bebc9357-f7c2-450f-a04e-d01d095bf32f" alt="Gif do Jogo">
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen" alt="Status Concluído">
+  <img src="https://img.shields.io/github/last-commit/d-ivva/alura-jogo-numero-secreto" alt="Last Commit">
+</p>
 
 ## 📄 <a id="sobre">Sobre</a>
 
